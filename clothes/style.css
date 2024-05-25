@@ -1,0 +1,14 @@
+#item{
+    display: flex;
+    /* justify-content: space-evenly; */
+    
+}
+
+#container-product{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#fav:hover{
+    border-radius: 50%;
+}
